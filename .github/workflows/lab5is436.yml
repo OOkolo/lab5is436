@@ -16,7 +16,7 @@ jobs:
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
           server: gl.umbc.edu
-          username: ookolo1@gl.umbc.edu
+          username: ookolo1
           password: SupermanMario5009!
           local_path: './*'
           remote_path: '/afs/umbc.edu/users/p/a/ookolo1/pub/swe2023/'
